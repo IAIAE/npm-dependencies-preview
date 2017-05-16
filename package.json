@@ -1,0 +1,16 @@
+{
+  "name": "node-modules-scanner",
+  "version": "1.0.0",
+  "description": "this is a scanner that can view all the dependencies before you install it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scanner",
+    "node_modules"
+  ],
+  "author": "iaiae",
+  "license": "MIT",
+  "dependencies": {}
+}
