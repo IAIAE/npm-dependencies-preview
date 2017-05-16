@@ -1,6 +1,6 @@
 {
   "name": "node-modules-scanner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this is a scanner that can view all the dependencies before you install it",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,7 @@
   ],
   "author": "iaiae",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "request": "^2.81.0"
+  }
 }
